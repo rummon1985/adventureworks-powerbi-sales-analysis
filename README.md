@@ -5,18 +5,6 @@ An interactive Power BI dashboard designed to analyze AdventureWorks sales perfo
 
 The report consists of four pages: Executive Summary, Territory Analysis, Product Analysis, and Customer Analysis.
 
-### 1. Executive Summary
-![Executive Summary](./images/01_Executive_Summary.png)
-
-### 2. Territory Analysis
-![Territory Analysis](./images/02_Territory_Analysis.png)
-
-### 3. Product Analysis
-![Product Analysis](./images/03_Product_Analysis.png)
-
-### 4. Customer Analysis
-![Customer Analysis](./images/04_Customer_Analysis.png)
-
 ## Key Performance Indicators
 
 | KPI | Value |
@@ -93,3 +81,18 @@ The AdventureWorks Power BI dashboard provides a consolidated view of business p
 
 ## Author
 Rummon Ibn Azad
+
+
+## Dashboard Preview
+
+### 1. Executive Summary
+![Executive Summary](./images/01_Executive_Summary.png)
+
+### 2. Territory Analysis
+![Territory Analysis](./images/02_Territory_Analysis.png)
+
+### 3. Product Analysis
+![Product Analysis](./images/03_Product_Analysis.png)
+
+### 4. Customer Analysis
+![Customer Analysis](./images/04_Customer_Analysis.png)
