@@ -86,13 +86,13 @@ Rummon Ibn Azad
 ## Dashboard Preview
 
 ### 1. Executive Summary
-![Executive Summary](./images/01_Executive_Summary.png)
+![Executive Summary](./Executive_Summary.png)
 
 ### 2. Territory Analysis
-![Territory Analysis](./images/02_Territory_Analysis.png)
+![Territory Analysis](./Territory_Analysis.png)
 
 ### 3. Product Analysis
-![Product Analysis](./images/03_Product_Analysis.png)
+![Product Analysis](./Product%20Analysis.png)
 
 ### 4. Customer Analysis
-![Customer Analysis](./images/04_Customer_Analysis.png)
+![Customer Analysis](./Customer%20Analysis.png)
